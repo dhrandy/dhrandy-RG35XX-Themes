@@ -8,3 +8,12 @@ A collection of Anbernic RG35XX themes I've made. Follow the links below to inta
 ## Note
 - These only work with the Anbernic RG35XX
 - Use at your own risk.
+
+## Useful Links
+RG35XX Starter Guide (Has how to install Garlic OS and add artwork) - https://retrogamecorps.com/2023/01/03/anbernic-rg35xx-starter-guide/
+
+Garlic OS - https://www.patreon.com/posts/garlicos-for-76561333
+
+RG35XX Sub Reddit - https://www.reddit.com/r/RG35XX/
+
+RG35XX Themes and More - https://www.rg35xx.com/
