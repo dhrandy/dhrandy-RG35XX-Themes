@@ -6,7 +6,8 @@ A collection of Anbernic RG35XX themes I've made. Follow the links below to inta
 
 ![ezgif-3-492b179e98](https://user-images.githubusercontent.com/6290176/224431892-760ca041-3114-4129-b5c3-bf4674424d47.gif)
 
-
+<br />
+<br />
 
 
 - dhrandy-RG35XX-ARCADE-Theme https://github.com/dhrandy/RG35XX-dhrandy-ARCADE-Theme
