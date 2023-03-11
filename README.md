@@ -8,6 +8,8 @@ A collection of Anbernic RG35XX themes I've made. Follow the links below to inta
 
 - dhrandy-RG35XX-ARCADE-Theme https://github.com/dhrandy/RG35XX-dhrandy-ARCADE-Theme
 
+![ezgif-1-e632113aa7](https://user-images.githubusercontent.com/6290176/224460918-48713205-9a7d-4423-a08c-b8685460b25d.gif)
+
 ## Note
 - These only work with the Anbernic RG35XX
 - Use at your own risk.
