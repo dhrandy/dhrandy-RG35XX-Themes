@@ -1,7 +1,7 @@
 # dhrandy-RG35XX-Themes
 A collection of Anbernic RG35XX themes I've made. Follow the links below to intall the themes.  
 
-## Theme Link
+## Theme Links
 - dhrandy-RG35XX-2023-Modern-Theme https://github.com/dhrandy/dhrandy-RG35XX-2023-Modern-Theme
 
 ![ezgif-3-492b179e98-2](https://user-images.githubusercontent.com/6290176/224461206-99d9a8e9-0ecf-414a-8bf0-3dc89cb66592.gif)
