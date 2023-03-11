@@ -4,11 +4,12 @@ A collection of Anbernic RG35XX themes I've made. Follow the links below to inta
 ## Theme Link
 - dhrandy-RG35XX-2023-Stockish-Theme https://github.com/dhrandy/dhrandy-RG35XX-2023-Stockish-Theme
 
-![ezgif-3-492b179e98](https://user-images.githubusercontent.com/6290176/224431892-760ca041-3114-4129-b5c3-bf4674424d47.gif)
+![ezgif-3-492b179e98-2](https://user-images.githubusercontent.com/6290176/224461206-99d9a8e9-0ecf-414a-8bf0-3dc89cb66592.gif)
 
 <br />
 <br />
 
+![ezgif-1-e632113aa7-2](https://user-images.githubusercontent.com/6290176/224461208-52787f6a-b600-4210-8367-82835aa6123e.gif)
 
 - dhrandy-RG35XX-ARCADE-Theme https://github.com/dhrandy/RG35XX-dhrandy-ARCADE-Theme
 
