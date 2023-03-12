@@ -2,6 +2,13 @@
 A collection of Anbernic RG35XX themes I've made. Follow the links below to intall the themes.  
 
 ## Theme Links
+- dhrandy-RG35XX-Switch-Theme https://github.com/dhrandy/dhrandy-RG35XX-Switch-Theme
+
+![ezgif-3-ffa39e318c-2](https://user-images.githubusercontent.com/6290176/224575738-f18d0fea-1ed8-4f51-8f28-00e00c4dbab0.gif)
+
+<br />
+<br />
+
 - dhrandy-RG35XX-2023-Modern-Theme https://github.com/dhrandy/dhrandy-RG35XX-2023-Modern-Theme
 
 ![ezgif-3-492b179e98-2](https://user-images.githubusercontent.com/6290176/224461206-99d9a8e9-0ecf-414a-8bf0-3dc89cb66592.gif)
