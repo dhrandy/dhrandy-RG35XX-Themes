@@ -23,16 +23,17 @@ A collection of Anbernic RG35XX themes I've made for Garlic OS. Follow the links
 <br />
 <br />
 
+- dhrandy-RG35XX-Iconic-Theme https://github.com/dhrandy/dhrandy-RG35XX-Iconic-Theme
+
+![ezgif-2-a565fa5ce4-2](https://user-images.githubusercontent.com/6290176/224519006-865f7210-d8ca-41ae-a041-856a5dfc0813.gif)
+
+<br />
+<br />
+
 - dhrandy-RG35XX-ARCADE-Theme https://github.com/dhrandy/dhrandy-RG35XX-ARCADE-Theme
 
 ![ezgif-1-e632113aa7-2](https://user-images.githubusercontent.com/6290176/224461208-52787f6a-b600-4210-8367-82835aa6123e.gif)
 
-<br />
-<br />
-
-- dhrandy-RG35XX-Iconic-Theme https://github.com/dhrandy/dhrandy-RG35XX-Iconic-Theme
-
-![ezgif-2-a565fa5ce4-2](https://user-images.githubusercontent.com/6290176/224519006-865f7210-d8ca-41ae-a041-856a5dfc0813.gif)
 
 ## Note
 - These only work with the Anbernic RG35XX installed with Garlic OS
