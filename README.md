@@ -4,7 +4,7 @@ A collection of Anbernic RG35XX themes I've made. Follow the links below to inta
 ## Theme Links
 - dhrandy-RG35XX-SP5-Theme https://github.com/dhrandy/dhrandy-RG35XX-SP5-Theme
 
-![ezgif-4-db5af7fa72-2](https://user-images.githubusercontent.com/6290176/225158694-6764905a-4fae-4995-9945-0fd1125380ca.gif)
+![ezgif-1-ba0b181f80-2](https://user-images.githubusercontent.com/6290176/225179733-2677096b-34e4-4540-a5ca-f2ba7718ad0d.gif)
 
 <br />
 <br />
