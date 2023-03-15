@@ -16,16 +16,16 @@ A collection of Anbernic RG35XX themes I've made for Garlic OS. Follow the links
 <br />
 <br />
 
-- dhrandy-RG35XX-2023-Modern-Theme https://github.com/dhrandy/dhrandy-RG35XX-2023-Modern-Theme
-
-![ezgif-3-492b179e98-2](https://user-images.githubusercontent.com/6290176/224461206-99d9a8e9-0ecf-414a-8bf0-3dc89cb66592.gif)
-
-<br />
-<br />
-
 - dhrandy-RG35XX-Iconic-Theme https://github.com/dhrandy/dhrandy-RG35XX-Iconic-Theme
 
 ![ezgif-2-a565fa5ce4-2](https://user-images.githubusercontent.com/6290176/224519006-865f7210-d8ca-41ae-a041-856a5dfc0813.gif)
+
+<br />
+<br />
+
+- dhrandy-RG35XX-2023-Modern-Theme https://github.com/dhrandy/dhrandy-RG35XX-2023-Modern-Theme
+
+![ezgif-3-492b179e98-2](https://user-images.githubusercontent.com/6290176/224461206-99d9a8e9-0ecf-414a-8bf0-3dc89cb66592.gif)
 
 <br />
 <br />
