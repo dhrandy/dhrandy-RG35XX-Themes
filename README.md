@@ -1,5 +1,9 @@
 # dhrandy-RG35XX-Themes
-A collection of Anbernic RG35XX themes I've made for Garlic OS. Follow the links below to intall the themes.  
+A collection of Anbernic RG35XX themes I've made for Garlic OS. Follow the links below to intall the themes.
+
+Added a Dicussions section at the top.  Join in on some discussions! Tell me your favorite theme! 
+
+https://github.com/dhrandy/dhrandy-RG35XX-Themes/discussions
 
 ## Theme Links
 - dhrandy-RG35XX-SP5-Theme https://github.com/dhrandy/dhrandy-RG35XX-SP5-Theme
